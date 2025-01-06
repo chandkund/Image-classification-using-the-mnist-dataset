@@ -71,7 +71,7 @@ pip install tensorflow keras numpy matplotlib
   print("Training data shape:", x_train.shape)
   print("Training labels shape:", y_train.shape)
 
-  x_train,x_test = x_train/255.0,x_test/255.0
+  x_train,x_test = x_train/255.0,x_test/255.0 
 
     ```
 
