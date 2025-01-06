@@ -23,6 +23,7 @@ To run this project, you will need Python along with the following libraries:
 - `keras`
 - `numpy`
 - `matplotlib`
+-  `seaborn`
 
 You can install the required packages using `pip`:
 
