@@ -1,7 +1,7 @@
 # Image-classification-using-the-mnist-dataset
 
 This project focuses on building and training a model to classify handwritten digits using the MNIST dataset. The MNIST dataset consists of 60,000 training images and 10,000 test images, each representing a digit from 0 to 9.  
-
+ 
 ## Table of Contents 
 
 - [Project Overview](#project-overview)     
