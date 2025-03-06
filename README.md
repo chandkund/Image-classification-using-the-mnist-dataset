@@ -9,7 +9,7 @@ This project focuses on building and training a model to classify handwritten di
 - [Usage](#usage)           
 - [Code Explanation](#code-explanation)            
 - [Model Evaluation](#model-evaluation)         
-- [License](#license)   
+- [License](#license)     
        
 ## Project Overview
    
