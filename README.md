@@ -10,7 +10,7 @@ This project focuses on building and training a model to classify handwritten di
 - [Code Explanation](#code-explanation)                      
 - [Model Evaluation](#model-evaluation)            
 - [License](#license)       
-            
+               
 ## Project Overview    
    
 The goal of this project is to develop a machine learning model that can accurately classify handwritten digits. This is a common benchmark problem in machine learning, especially in the field of deep learning. The project uses a simple convolutional neural network (CNN) to achieve high accuracy on the test set.
